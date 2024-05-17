@@ -13,6 +13,5 @@ public class ResultadoEscolarRefatorado {
 
         System.err.println(resultado);
     
-}
-
+    }
 }
