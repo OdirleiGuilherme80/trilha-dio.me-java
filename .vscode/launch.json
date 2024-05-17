@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
             "name": "AboutMeWithScanner",
             "request": "launch",
             "mainClass": "AboutMeWithScanner",

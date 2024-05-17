@@ -19,9 +19,7 @@ public class CaixaEletronico {
             System.out.println("Valor solicitado para retirada: " + valorSolicitado);
             System.out.println("saldo disponível em conta é de: " + saldoRestante);
 
-        }
-        else {
-            System.out.println("Saldo indisponível, faça a consulta para saber saldo disponível!");
-        }
+        }else 
+            System.out.println("Saldo insuficiente");
     }
 }
