@@ -1,6 +1,10 @@
-## Getting Started
+## Treinando e relembrando Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo a segunda parte dos meus estudos relembrando e afinando os talentos para linguagem Java. 
+
+Para isso, dei inicio a uma trilha de estudos por meio de um bootcamp da Dio.me Santander 2024 programação Backend JAVA.
+
+Estou dividindo em trilhas diferentes, começamdo pela trilha básica e assim por diante.
 
 ## Folder Structure
 
