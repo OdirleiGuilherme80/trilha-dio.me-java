@@ -1,0 +1,15 @@
+public class AboutMe {
+    public static void main(String[] args) throws Exception {
+        String name = args[0];
+        String lastname = args[1];
+        int idade = Integer.valueOf(args[2]);
+        double altura = Double.valueOf(args[3]);
+        
+        //Funcinando jogar os argumentos no cmd ou prompt para testar.
+
+        
+        System.out.println("Olá me chamo " + name +" "+ lastname);
+        System.out.println("tenho " + idade + " anos");
+        System.out.println("Minha altura é " + altura + "cm ");
+    }
+}
