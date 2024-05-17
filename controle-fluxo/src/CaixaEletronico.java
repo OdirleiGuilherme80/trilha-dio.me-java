@@ -4,7 +4,7 @@ import java.util.Locale;
 public class CaixaEletronico {
     public static void main(String[] args) throws Exception {
         //Saldo disponível
-        double saldo = 500.0;
+        double saldo = 500.00;
         
         //objeto import Scanner e Locale
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
