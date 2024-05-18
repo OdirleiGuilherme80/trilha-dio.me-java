@@ -1,5 +1,6 @@
 public class PlanoCelular {
     public static void main(String[] args) {
+        // aplicando técnica de controle de fluxo Switch case
         String plano = "M";
 
         switch(plano){
