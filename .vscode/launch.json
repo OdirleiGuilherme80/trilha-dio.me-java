@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EstudoDoWhile",
+            "request": "launch",
+            "mainClass": "EstudoDoWhile",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
+            "name": "EstudoWhile",
+            "request": "launch",
+            "mainClass": "EstudoWhile",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
+            "name": "EstudoForEach",
+            "request": "launch",
+            "mainClass": "EstudoForEach",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
+            "name": "EstudoForEmArrays",
+            "request": "launch",
+            "mainClass": "EstudoForEmArrays",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
+            "name": "EstudoFor",
+            "request": "launch",
+            "mainClass": "EstudoFor",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
             "name": "PlanoCelular",
             "request": "launch",
             "mainClass": "PlanoCelular",
