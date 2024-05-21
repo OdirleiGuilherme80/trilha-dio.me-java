@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TryAndCatch",
+            "request": "launch",
+            "mainClass": "TryAndCatch",
+            "projectName": "trilha-dio.me-java_12fbcaca"
+        },
+        {
+            "type": "java",
             "name": "EstudoDoWhile",
             "request": "launch",
             "mainClass": "EstudoDoWhile",
